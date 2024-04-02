@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+bibliography: trabajo1.bib
+link-citations: true
+---
+
+# introducción
+
+Nuestra investigación se trata de como utilizar r [@mijsParadoxInequalityIncome2021] porque así queda mejor según [@mijsParadoxInequalityIncome2021]
+
+## Desarrollo
+
+siguiendo el desarrollo [@vladimirgimpelsonMisperceivingInequality]
